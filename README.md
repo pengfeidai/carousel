@@ -1,10 +1,10 @@
 ## 主要技术
 
-1. v-if: 条件渲染
-2. v-for：列表渲染
-3. v-bind：属性绑定
-4. transition: 过渡效果
-5. 组件交互: 父组件通过 props 将数据传递给子组件
+ **v-i:** 条件渲染
+ **v-for：** 列表渲染
+ **v-bind：** 属性绑定
+ **transition:** 过渡效果
+ **组件交互:** 父组件通过 props 将数据传递给子组件
 
 ## 主要思路
 
@@ -21,6 +21,3 @@ npm run dev
 
 # build for production with minification
 npm run build
-
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
